@@ -13,7 +13,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "hexo-util": "^2.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.7.0",
     "turndown": "^6.0.0"
   }
 }
